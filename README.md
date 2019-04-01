@@ -2,7 +2,7 @@
 
 ![Flutter app](https://images.frandroid.com/wp-content/uploads/2018/09/flutter.png)
 
-## Why i'm doing this
+## Why I'm doing this
 I've been using React and React Native for mobile for a long time and this is a good opportunity for me to compete and learn a new programming language. After that, I want to be able to found a good reason to use Flutter over React Native. 
 
 ## What is Flutter
