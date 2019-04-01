@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "635413193254",
+    "firebase_url": "https://flutter-contest-app.firebaseio.com",
+    "project_id": "flutter-contest-app",
+    "storage_bucket": "flutter-contest-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635413193254:android:789dbc05d63f807c",
+        "android_client_info": {
+          "package_name": "com.example.contest_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635413193254-mjenouibhtgqb3tasvn111pnhp7ame7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkMx45Hg-_EVUFHrpwXxpVUzEkdQOn2DE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
